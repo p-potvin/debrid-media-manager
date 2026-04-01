@@ -1,2 +1,8 @@
 # VaultWares Git Submodule Manifest
 # Pattern: [Target Folder] [GitHub HTTPS URL] [Branch/Tag]
+
+# Upstream debrid-media-manager (reference only — not a submodule)
+# upstream https://github.com/debridmediamanager/debrid-media-manager main
+
+# VaultWares Glass UI component library
+# glass-ui https://github.com/p-potvin/glass-ui main
