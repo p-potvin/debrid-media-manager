@@ -10,13 +10,12 @@ This fork builds on the original Debrid Media Manager — a free, open source we
 
 - VaultWares Glass UI styling with light/dark theme support
 - Enhanced privacy controls and audit logging with CorrelationId tracing
-- Google Cloud Run / Cloud SQL deployment support
 - Improved type safety (strict TypeScript, Zod validation)
 
 ## Prerequisites
 
 - Node.js 20+
-- MySQL / PostgreSQL database (CloudSQL recommended)
+- MySQL / PostgreSQL database
 - A Debrid account: [Real-Debrid](https://real-debrid.com), [AllDebrid](https://alldebrid.com), or [TorBox](https://torbox.app)
 
 ## Setup
