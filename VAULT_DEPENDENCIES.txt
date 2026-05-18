@@ -5,4 +5,4 @@
 # upstream https://github.com/debridmediamanager/debrid-media-manager main
 
 # VaultWares Glass UI component library
-# glass-ui https://github.com/p-potvin/glass-ui main
+# vaultwares-glass https://github.com/p-potvin/vaultwares-glass main
